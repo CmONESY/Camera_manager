@@ -1,0 +1,25 @@
+{
+  "camera_front_left": {
+    "stream_bitrate": 3000000,
+    "stream_width": 1920,
+    "stream_height": 1080
+  },
+  "camera_ir_left": {
+    "stream_bitrate": 500000
+  },
+  "camera_surround_left_rear": {
+    "stream_bitrate": 3000000,
+    "stream_width": 1920,
+    "stream_height": 1536
+  },
+  "camera_surround_right_rear": {
+    "stream_bitrate": 3000000,
+    "stream_width": 1920,
+    "stream_height": 1536
+  },
+  "camera_rear_left": {
+    "stream_bitrate": 3000000,
+    "stream_width": 1920,
+    "stream_height": 1080
+  }
+}
